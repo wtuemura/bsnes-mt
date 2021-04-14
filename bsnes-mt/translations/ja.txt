@@ -1,4 +1,7 @@
-﻿Common.Yes    = "はい"
+﻿Translation.author  = "byuu"
+Translation.version = "1.0"
+
+Common.Yes    = "はい"
 Common.No     = "いいえ"
 Common.Cancel = "キャンセル"
 Common.Open   = "開く"
@@ -36,7 +39,7 @@ Browser.Select = "選択"
 Devices.Gamepad       = "ゲームパッド"
 Devices.Mouse         = "マウス"
 Devices.SuperMultitap = "スーパーマルチタップ"
-Devices.SuperScope    = "スーパースコップ"}
+Devices.SuperScope    = "スーパースコップ"
 Devices.Justifier     = "1挺のジャスティファイアー"
 Devices.Justifiers    = "2挺のジャスティファイアー"
 Devices.Satellaview   = "サテラビュー"
